@@ -6,4 +6,8 @@ How is the staging area different from the working directory and the repository?
 
 staging area contains changes that are going to be committed. working directory contains all changes. it can be used to control our commits.
 
- 
+How can you use the staging area to make sure you have one commit per logical change?
+
+you can use git diff --staging to see all changes between staging area and repository.
+
+

@@ -17,3 +17,9 @@ experimental functionalities, new functionalities could be tested.
 How do the diagrams help you visualize the branch structure?
 
 It lets us easily identify the commit relationships 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+result is combining changes together. its easier to understand with diagram.
+
+

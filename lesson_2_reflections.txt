@@ -22,4 +22,8 @@ What is the result of merging two branches together? Why do we represent it in t
 
 result is combining changes together. its easier to understand with diagram.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+if no conflicts as diff part of code are diff, auto merging is great. else manual merges , which needs for going through code and finding a middle ground.
+
 
